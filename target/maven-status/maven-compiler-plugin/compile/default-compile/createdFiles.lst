@@ -11,3 +11,4 @@ com\mycompany\assignment1soapservice\entities\Type.class
 com\mycompany\assignment1soapservice\TypeJpaController.class
 com\mycompany\assignment1soapservice\ShowsJpaController.class
 services\ShowCRUD.class
+.netbeans_automatic_build
